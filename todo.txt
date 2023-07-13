@@ -1,0 +1,16 @@
+(A) Learn the basics of React
+(B) Make the landing page @intro
+(C) Make session creation basic work @session-creation
+(D) Make joining sessions work @session-joining
+(E) Give session creator the ability to start a session @session-creation
+(F) Make it so that when a session is started, all users are prompted to input words @game
+(G) ability to leave a game @pre-game
+(H) ability to add a second user to a device @pre-game
+(I) allow an indvidual user on a device with multiple users to leave without kicking the others out. @pre-game
+(J) make devices with multiple users prompt each user one by one to input words @game
+(K) make each device on a team, depending on which teams turn it is, ping to see if it is their turn @game
+(L) if it is a users turn, notify them that they are the user and put them on the start screen and wait for screen tap @game
+(M) give the current user random available words. Only give the next word when the user completes the current word or abandons it @game
+(N) put the countdown in the top left and the current number done in the top right
+
+Add additional rule setting to @session-creation
